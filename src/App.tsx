@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import { Home } from "./pages/home/Home"
 import { Sobre } from "./pages/sobre/Sobre"
 import Navbar from "./components/navbar/navbar"
-import { Footer } from "./components/footer/footer"
+import { Footer } from "./components/footer/Footer"
 import {Contato} from "./pages/contato/Contato"
 
 export default function App() {
