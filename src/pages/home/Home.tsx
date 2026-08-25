@@ -19,7 +19,7 @@ export function Home() {
             
             <div>
               <Link 
-                to="/about"
+                to="/sobre"
                 className="inline-block bg-blue-600 text-white font-semibold text-lg px-8 py-3 rounded-lg shadow-md hover:bg-blue-700 hover:shadow-lg hover:-translate-y-1 transition-all duration-300 active:scale-95"
               >
                 Saiba Mais
