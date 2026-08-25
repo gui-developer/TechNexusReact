@@ -3,7 +3,7 @@ import { Home } from "./pages/home/Home"
 import { Sobre } from "./pages/sobre/Sobre"
 import Navbar from "./components/navbar/navbar"
 import { Footer } from "./components/footer/footer"
-import Contato from "./pages/contato/Contato"
+import {Contato} from "./pages/contato/Contato"
 
 export default function App() {
   return (

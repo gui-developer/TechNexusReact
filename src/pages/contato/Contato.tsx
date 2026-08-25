@@ -1,6 +1,6 @@
 
 
-export function Contact() {
+export function Contato() {
 
   return (
     <div>
